@@ -1,4 +1,4 @@
-# julius
+# julius first vue app
 
 ## Project setup
 ```
