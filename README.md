@@ -1,6 +1,7 @@
 # julius first vue app
 
 ## Project setup
+# 我是1
 ```
 npm install
 ```
